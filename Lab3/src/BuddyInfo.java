@@ -7,7 +7,7 @@ public class BuddyInfo {
 		
 	}
 	public String getName() {
-		System.out.print("");
+		System.out.print("Test2");
 		return name;
 		
 	}
